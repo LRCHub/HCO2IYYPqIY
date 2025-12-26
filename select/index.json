@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Break Free",
+  "base_artist": "Ariana Grande",
+  "createdAt": "2025-12-26T06:15:46.038066Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Want To Break Free",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/01_I_Want_To_Break_Free_Queen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Break Free",
+      "artist": "Ariana Grande feat. Zedd",
+      "has_synced": true,
+      "path": "select/02_Break_Free_Ariana_Grande_feat._Zedd.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Want To Break Free",
+      "artist": "Masterboy",
+      "has_synced": true,
+      "path": "select/03_I_Want_To_Break_Free_Masterboy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Break Free",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/04_Break_Free_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Break Free",
+      "artist": "Europe",
+      "has_synced": true,
+      "path": "select/05_Break_Free_Europe.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Time to Break Free",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/06_Time_to_Break_Free_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Time to Break Free (Live)",
+      "artist": "Gamma Ray",
+      "has_synced": true,
+      "path": "select/07_Time_to_Break_Free_(Live)_Gamma_Ray.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Snake (Break Free)",
+      "artist": "Sick Of It All",
+      "has_synced": true,
+      "path": "select/08_The_Snake_(Break_Free)_Sick_Of_It_All.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Break Free",
+      "artist": "Colbie Caillat",
+      "has_synced": true,
+      "path": "select/09_Break_Free_Colbie_Caillat.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Break Free - Extended Mix",
+      "artist": "Ariana Grande feat. Zedd",
+      "has_synced": false,
+      "path": "select/10_Break_Free_-_Extended_Mix_Ariana_Grande_feat._Zedd.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Break Free (Feat. Zedd)",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/11_Break_Free_(Feat._Zedd)_Ariana_Grande.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Break Free",
+      "artist": "Ariana Grande Feat. Zedd",
+      "has_synced": false,
+      "path": "select/pl_01_Break_Free_Ariana_Grande_Feat._Zedd.txt"
+    }
+  ]
+}
