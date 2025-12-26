@@ -1,0 +1,64 @@
+# Ariana Grande – Break Free
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:06.95] If you want it, take it
+[00:11.25] I should have said it before
+[00:14.27] Tried to hide it, fake it
+[00:18.52] I can't pretend anymore
+[00:30.02] 
+[00:22.41] I only want to die alive
+[00:25.61] Never by the hands of a broken heart
+[00:29.74] I don't wanna hear you lie tonight
+[00:33.06] Now that I've become who I really am
+[00:51.06] 
+[00:37.42] This is the part when I say I don't want ya
+[00:42.22] I'm stronger than I've been before
+[00:45.03] This is the part when I break free
+[00:49.61] 'Cause I can't resist it no more
+[01:05.61] 
+[00:52.47] This is the part when I say I don't want ya
+[00:57.02] I'm stronger than I've been before
+[00:59.73] This is the part when I break free
+[01:04.33] 'Cause I can't resist it no more
+[01:20.33] 
+[01:13.48] You were better, deeper
+[01:17.95] I was under your spell
+[01:20.79] Like a deadly fear I am, babe
+[01:25.24] On the highway to hell
+[01:36.24] 
+[01:28.99] I only want to die alive
+[01:32.17] Never by the hands of a broken heart
+[01:36.38] I don't wanna hear you lie tonight
+[01:39.48] Now that I've become who I really am
+[01:57.48] 
+[01:43.90] This is the part when I say I don't want ya
+[01:48.73] I'm stronger than I've been before
+[01:51.47] This is the part when I break free
+[01:56.06] 'Cause I can't resist it no more
+[02:12.06] 
+[01:58.96] This is the part when I say I don't want ya
+[02:03.41] I'm stronger than I've been before
+[02:06.34] This is the part when I break free
+[02:10.82] 'Cause I can't resist it no more
+[02:26.82] 
+[02:15.17] (No more baby, oooh)
+[02:24.01] Thought of your body
+[02:25.75] I came alive
+[02:28.88] It was lethal
+[02:30.64] It was fatal
+[02:32.59] In my dreams it felt so right
+[02:36.16] But I woke up every time
+[02:48.16] 
+[02:45.46] Oh baby
+[02:46.91] This is the part when I say I don't want ya
+[02:51.48] I'm stronger than I've been before
+[02:54.37] This is the part when I break free
+[02:58.89] 'Cause I can't resist it no more
+[03:14.89] 
+[03:01.51] This is the part when I say I don't want ya
+[03:06.20] I'm stronger than I've been before
+[03:08.92] This is the part when I break free
+[03:13.69] 'Cause I can't resist it no more
+```
